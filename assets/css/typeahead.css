@@ -1,0 +1,64 @@
+	.typeahead {
+		  background-color: transparent;
+		}
+		.typeahead:focus {
+		  border: 2px solid #0097cf;
+		}
+		.tt-query {
+		  -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+		     -moz-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+		          box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+		}
+		.tt-hint {
+		  color: #999
+		}
+		.tt-menu {
+		 margin: 10px 0;
+		  padding: 4px 0;
+		  background-color: #fff;
+		  border: 1px solid #ccc;
+		  border: 1px solid rgba(0, 0, 0, 0.2);
+		  -webkit-border-radius: 1px;
+		     -moz-border-radius: 1px;
+		          border-radius: 1px;
+		  -webkit-box-shadow: 0 5px 10px rgba(0,0,0,.2);
+		     -moz-box-shadow: 0 5px 10px rgba(0,0,0,.2);
+		          box-shadow: 0 5px 10px rgba(0,0,0,.2);
+		    left: 17px !important;
+		    top: 75% !important;
+			width:360px;
+			
+		}
+		.tt-suggestion {
+		  padding: 10px 15px;
+		  font-size: 13px;
+		  line-height: 15px;
+		}
+		.tt-suggestion:hover {
+		  cursor: pointer;
+		  color: black;
+		  background-color: #f6f6f6;
+		}
+		.tt-suggestion.tt-cursor {
+		  color: black;
+		  background-color: #f6f6f6;
+		}
+		.image-ajax .image {
+		  width: 50px;
+		  float: left;
+		}
+		.image-ajax .menu-text{
+		    padding-bottom: 0px;
+		    margin: 0px;
+		}
+		.image-ajax .price{
+		    font-size: 12px;
+		    margin: 0px;
+		}
+		.image-ajax .ajax-text{
+		    /*padding-left: 70px;*/
+		}
+		
+		.tt-suggestion p {
+		  margin: 5px;
+		}
